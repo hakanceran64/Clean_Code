@@ -67,7 +67,7 @@
             int calculateKm(City c1, City c2)
         ~~~
 
-    - #### İyi isimlendirme:
+    - #### İyi örnekler:
         ~~~C++
             int distance
             int distanceToGo
